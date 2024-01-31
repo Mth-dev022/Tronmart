@@ -1,4 +1,4 @@
-# Tronmart E-commerce
+<p align="center" > # Tronmart E-commerce </p>
 <br>
 <p align="center">
     
