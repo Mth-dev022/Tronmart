@@ -1,14 +1,14 @@
-<p align="center" > # Tronmart E-commerce </p>
+<h1 align="center" > # Tronmart E-commerce </h1>
 <br>
 <p align="center">
     
-<img width="400px" height="400px" src="">
+<img width="400px" height="400px" src="assets/Divulgation images/area-print.png ">
 
 </p>
 
 <p align="center">
     
-<img width="400px" height="300px" src="img/todasTarefas.png">
+<img width="400px" height="300px" src="img/todasTarefas.png" >
 <img width="400px" height="300px" src="img/atualizar.png">
 
 </p>
