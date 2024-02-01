@@ -1,51 +1,32 @@
-<h1 align="center" > # Tronmart E-commerce </h1>
+<h1 align="center" > Tronmart E-commerce </h1>
 <br>
 <p align="center">
     
-<img  src="src/assets/Divulgation/area-print.png ">
-
-</p>
-
-<p align="center">
-    
-<img width="400px" height="300px" src="img/todasTarefas.png" >
-<img width="400px" height="300px" src="img/atualizar.png">
+<img src="src/assets/Divulgation/area-print.png ">
 
 </p>
 
 #  📝 Descrição do projeto
 
 <p>
-No nosso dia a dia as vezes temos tantas tarefas a fazer, que é necessário uma boa organização do nosso tempo para conseguirmos fazer tudo.
-Para isso foi criado este sistema. Um "CRUD" feito em PHP e MySQL, para listagem de tarefas de uma forma super organizada para aumentar sua  produtividade no dia a dia.
+O React E-Commerce é uma plataforma de compras online construída com o framework React.js. Focado na praticidade, oferece aos usuários uma experiência de compra simples e direta. Eles podem navegar por diversos produtos e adicioná-los ao carrinho com facilidade, tornando o processo de compra intuitivo e eficiente.
 </p>
 
-## Iniciando/Configurando banco de dados
+## Instalação do NPM
 
-Neste projeto foi usado o "Xampp" (Apache, MySql, PHP, Perl) para acesso ao Local-Host e ao sistema gerenciador de banco de dados. E o objeto nativo "PDO" do PHP para conexão com o banco de dados da aplicação. Segue tutorial:
 
-Conectar a um banco de dados utilizando o objeto PDO (PHP Data Objects) é uma abordagem segura e eficiente para interagir com bancos de dados em PHP. O PDO oferece uma camada de abstração que suporta diversos tipos de bancos de dados, tornando o código mais portável e fácil de manter. Aqui está um exemplo de como você pode conectar a um banco de dados usando o PDO no PHP:
+O NPM (Node Package Manager) é um gerenciador de pacotes para o ambiente Node.js. Ele permite que você instale e gerencie facilmente bibliotecas, frameworks e ferramentas para o desenvolvimento de aplicações JavaScript. Este guia irá ajudá-lo a instalar o NPM em seu computador.
 
-```php
-<?php
-$host = 'localhost'; // Endereço do servidor de banco de dados
-$db_name = 'seu_banco_de_dados'; // Nome do banco de dados
-$username = 'seu_usuario'; // Nome de usuário do banco de dados
-$password = 'sua_senha'; // Senha do banco de dados
+## Pré-requisitos
 
-try {
-    // Criação de uma nova instância PDO
-    $pdo = new PDO("mysql:host=$host;dbname=$db_name;charset=utf8", $username, $password);
-// Configuração de opções de PDO
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
+Antes de instalar o NPM, certifique-se de que o Node.js esteja instalado em seu sistema. O NPM é distribuído junto com o Node.js, portanto, ao instalar o Node.js, você automaticamente obtém o NPM.
 
-    echo "Conexão bem-sucedida ao banco de dados!";
-} catch (PDOException $e) {
-    echo "Erro na conexão ao banco de dados: " . $e->getMessage();
-}
-?>
-```
+Você pode baixar o Node.js no [site oficial do Node.js](https://nodejs.org). Siga as instruções de instalação apropriadas para o seu sistema operacional.
+
+## Verificando a Instalação do NPM
+
+Após instalar o Node.js, você pode verificar se o NPM está instalado corretamente digitando o seguinte comando no seu terminal ou prompt de comando:
+
 
 Neste exemplo, você precisará substituir `localhost`, `seu_banco_de_dados`, `seu_usuario` e `sua_senha` pelas informações relevantes do seu banco de dados. Este código estabelece uma conexão com o banco de dados MySQL, mas você pode ajustar os parâmetros conforme necessário para se conectar a outros tipos de bancos de dados suportados pelo PDO.
 
