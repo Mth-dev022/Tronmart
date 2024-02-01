@@ -9,11 +9,8 @@
 #  📝 Descrição do projeto
 
 <p>
-O React E-Commerce é uma plataforma de compras online construída com o framework React.js. Focado na praticidade, oferece aos usuários uma experiência de compra simples e direta. Eles podem navegar por diversos produtos e adicioná-los ao carrinho com facilidade, tornando o processo de compra intuitivo e eficiente.
+O Tronmart E-Commerce é uma plataforma de compras online construída com o framework React.js. Focado na praticidade, oferece aos usuários uma experiência de compra simples e direta. Eles podem navegar por diversos produtos e adicioná-los ao carrinho com facilidade, tornando o processo de compra intuitivo e eficiente.
 </p>
-
-## Instalação do NPM
-
 
 # Instalação do NPM
 
@@ -45,25 +42,13 @@ npm install -g npm@latest
 
 Este comando instalará a versão mais recente do NPM globalmente em seu sistema.
 
-## Conclusão
-
-Agora você instalou com sucesso o NPM em seu computador. Você pode começar a usar o NPM para gerenciar pacotes e dependências em seus projetos Node.js.
-
-Se você tiver alguma dúvida ou encontrar problemas durante a instalação, consulte a documentação oficial do [NPM](https://docs.npmjs.com/) para obter mais informações e suporte.
-
-
-## Funcionalidades
-
-:heavy_check_mark: Cadastro de tarefas <br> <br>
-:heavy_check_mark: Aba destinada a visualização de todas as tarefas, para melhor controle do usuário <br> <br>
-:heavy_check_mark: Edição de tarefas já cadastradas <br> <br>
-:heavy_check_mark: Botão para marcar tarefa como realizada <br> <br>
-:heavy_check_mark: Botão para excluir tarefa  <br> <br>
-
 ## 🚀 Tecnologias
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
-- PHP
-- MySQL
+- React.JS
+- Styled-components
+- ContextAPI
+- React-toastfy
+- UUID Generator
 
