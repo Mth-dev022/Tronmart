@@ -2,7 +2,7 @@
 <br>
 <p align="center">
     
-<img width="400px" height="400px" src="src/assets/Divulgation/area-print.png ">
+<img  src="src/assets/Divulgation/area-print.png ">
 
 </p>
 
