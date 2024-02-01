@@ -3,7 +3,7 @@
 <p align="center">
     
 <img src="src/assets/Divulgation/area-print.png ">
-<video src="src/assets/Divulgation/GIF.gif">
+<img src="src/assets/Divulgation/GIF.gif">
 
 </p>
 
