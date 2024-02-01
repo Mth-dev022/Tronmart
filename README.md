@@ -42,7 +42,7 @@ npm install -g npm@latest
 
 Este comando instalará a versão mais recente do NPM globalmente em seu sistema.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e bibliotecas
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
