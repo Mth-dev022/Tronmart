@@ -1,10 +1,11 @@
-<h1 align="center" > Tronmart E-commerce </h1>
+<h1 align="center"> Tronmart E-commerce </h1>
 <br>
 <p align="center">
-    
-<img src="src/assets/Divulgation/area-print.png ">
-<img width="1200" src="src/assets/Divulgation/GIF.gif">
-
+    <a href="src/assets/Divulgation/area-print.png" target="_blank">
+        <img src="src/assets/Divulgation/area-print.png" style="max-width: 400px;">
+    </a>
+    <br>
+    <img width="1200" src="src/assets/Divulgation/GIF.gif">
 </p>
 
 #  📝 Descrição do projeto
