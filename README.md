@@ -51,4 +51,4 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - Styled-components
 - ContextAPI
 - React-toastfy
-- UUID Generator.
+- UUID Generator
