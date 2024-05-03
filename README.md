@@ -31,7 +31,7 @@ Após instalar o Node.js, você pode verificar se o NPM está instalado corretam
 npm -v
 ```
 
-Isso exibirá a versão atual do NPM instalada em seu sistema. Se o comando retornar a versão do NPM, significa que a instalação foi bem-sucedida e você está pronto para começar a usar o NPM.
+Isso exibirá a versão atual do NPM instalada em seu sistema. Se o comando retornar a versão do NPM, significa que a instalação foi bem-sucedida e você está pronto para começar a usar o NPM
 
 ## Atualizando o NPM
 
