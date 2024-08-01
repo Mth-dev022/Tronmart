@@ -15,7 +15,7 @@ O Tronmart E-Commerce é uma plataforma de compras online construída com o fram
 
 # Instalação do NPM
 
-O NPM (Node Package Manager) é um gerenciador de pacotes para o ambiente Node.js. Ele permite que você instale e gerencie facilmente bibliotecas, frameworks e ferramentas para o desenvolvimento de aplicações JavaScript. Este guia irá ajudá-lo a instalar o NPM em seu computador.
+O NPM (Node Package Manager) é um gerenciador de pacotes para o ambiente Node.js. Ele permite que você instale e gerencie facilmente bibliotecas, frameworks e ferramentas para o desenvolvimento de aplicações JavaScript. Este guia irá ajudá-lo a instalar o NPM em seu computador
 
 ## Pré-requisitos
 
