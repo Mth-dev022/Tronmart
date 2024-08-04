@@ -10,7 +10,7 @@
 #  📝 Descrição do projeto
 
 <p>
-O Tronmart E-Commerce é uma plataforma de compras online construída com o framework React.js. Focado na praticidade, oferece aos usuários uma experiência de compra simples e direta. Eles podem navegar por diversos produtos e adicioná-los ao carrinho com facilidade, tornando o processo de compra intuitivo e eficiente
+O Tronmart E-Commerce é uma plataforma de compras online construída com o framework React.js. Focado na praticidade, oferece aos usuários uma experiência de compra simples e direta. Eles podem navegar por diversos produtos e adicioná-los ao carrinho com facilidade, tornando o processo de compra intuitivo e eficiente.
 </p>
 
 # Instalação do NPM
