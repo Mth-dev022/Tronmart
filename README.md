@@ -21,7 +21,7 @@ O NPM (Node Package Manager) é um gerenciador de pacotes para o ambiente Node.j
 
 Antes de instalar o NPM, certifique-se de que o Node.js esteja instalado em seu sistema. O NPM é distribuído junto com o Node.js, portanto, ao instalar o Node.js, você automaticamente obtém o NPM.
 
-Você pode baixar o Node.js no [site oficial do Node.js](https://nodejs.org). Siga as instruções de instalação apropriadas para o seu sistema operacional.
+Você pode baixar o Node.js no [site oficial do Node.js](https://nodejs.org). Siga as instruções de instalação apropriadas para o seu sistema operacional
 
 ## Verificando a Instalação do NPM
 
